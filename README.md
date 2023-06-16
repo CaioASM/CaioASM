@@ -12,8 +12,7 @@ Welcome to my GitHub profile! I'm passionate about programming, computer, board 
 
 Here are some of the key skills I have developed over the years:
 
-- Programming languages: JavaScript
-- Frameworks and libraries: Vue, React, Node.
+JavaScript (JS) | Vue.js | React.js | Node.js | HTML5 | CSS3 | Sass 
 
 
 ## Get in Touch
