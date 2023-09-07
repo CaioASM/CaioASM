@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm passionate about programming, computer, board 
 
 ## About Me
 
-- 💻 I am currently unemployed but have a passion for Front-End Developing and am looking for a job in the area.
+- 💻 I am currently unemployed but have a passion for Full-End Developing and am looking for a job in the area.
 - 🌍 Based in Vancouver, Canada.
 - 🎓 Bachelor of Science in Business Administration
 
@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm passionate about programming, computer, board 
 
 Here are some of the key skills I have developed over the years:
 
-JavaScript (JS) | React.js | Node.js | SQL | HTML5 | CSS3 | Sass 
+Front-Stack Developer | JavaScript (JS) | React | Redux | Git & GitHub | Node | Express | SQL | PostgreSQL | HTML5 | CSS3 | Sass | Web Security | Data Structure | Algorithms
 
 
 ## Get in Touch
