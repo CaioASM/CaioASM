@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm passionate about programming, computer, board 
 
 Here are some of the key skills I have developed over the years:
 
-Front-Stack Developer | JavaScript (JS) | React | Redux | Git & GitHub | Node | Express | SQL | PostgreSQL | HTML5 | CSS3 | Sass | Web Security | Data Structure | Algorithms
+JavaScript | TypeScript | React | Redux | Git & GitHub | Node | Express | SQL | PostgreSQL | Swagger | HTML5 | CSS3 | Sass | Web Security | Data Structures | Algorithms.
 
 
 ## Get in Touch
