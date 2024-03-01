@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm passionate about programming, computer, board 
 
 ## About Me
 
-- 💻 I am currently unemployed but have a passion for Full-End Developing and am looking for a job in the area.
+- 💻 I am currently unemployed but have a passion for Full-Stack and front-End Developing and am looking for a job in the area.
 - 🌍 Based in Vancouver, Canada.
 - 🎓 Bachelor of Science in Business Administration
 
